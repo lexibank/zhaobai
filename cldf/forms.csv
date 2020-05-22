@@ -1,0 +1,210 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Graphemes,Profile
+ZhaozhuangBai-1_thesky-1,,ZhaozhuangBai,1_thesky,xe⁵⁵ȵi⁴⁴,xe⁵⁵ȵi⁴⁴,x e ⁵⁵ + ȵ i ⁴⁴,,Zhao2006,,,^x e ⁵⁵ ȵ i ⁴⁴$,default
+ZhaozhuangBai-2_thesun-1,,ZhaozhuangBai,2_thesun,mi⁴⁴phi³³phi³³,mi⁴⁴phi³³phi³³,m i ⁴⁴ + pʰ i ³³ + pʰ i ³³,,Zhao2006,,,^m i ⁴⁴ ph i ³³ ph i ³³$,default
+ZhaozhuangBai-3_thestar-1,,ZhaozhuangBai,3_thestar,ɕɛ⁵⁵tsi³³,ɕɛ⁵⁵tsi³³,ɕ ɛ ⁵⁵ + ts i ³³,,Zhao2006,,,^ɕ ɛ ⁵⁵ ts i ³³$,default
+ZhaozhuangBai-4_themoon-1,,ZhaozhuangBai,4_themoon,mi⁵⁵ua⁴⁴,mi⁵⁵ua⁴⁴,m i ⁵⁵ + w a ⁴⁴,,Zhao2006,,,^m i ⁵⁵ ua ⁴⁴$,default
+ZhaozhuangBai-5_thecloud-1,,ZhaozhuangBai,5_thecloud,vʋ²¹,vʋ²¹,v ʋ/ʊ ²¹,,Zhao2006,,,^v ʋ ²¹$,default
+ZhaozhuangBai-6_theearth-1,,ZhaozhuangBai,6_theearth,tɕi³³,tɕi³³,tɕ i ³³,,Zhao2006,,,^tɕ i ³³$,default
+ZhaozhuangBai-7_themountain-1,,ZhaozhuangBai,7_themountain,sʋ⁴⁴,sʋ⁴⁴,s ʋ/ʊ ⁴⁴,,Zhao2006,,,^s ʋ ⁴⁴$,default
+ZhaozhuangBai-8_thestone-1,,ZhaozhuangBai,8_thestone,tso⁴²khui⁵⁵,tso⁴²khui⁵⁵,ts o ⁴² + kʰ w i ⁵⁵,,Zhao2006,,,^ts o ⁴² kh ui ⁵⁵$,default
+ZhaozhuangBai-9_thesand-1,,ZhaozhuangBai,9_thesand,sɔ⁵⁵,sɔ⁵⁵,s ɔ ⁵⁵,,Zhao2006,,,^s ɔ ⁵⁵$,default
+ZhaozhuangBai-10_theroad-1,,ZhaozhuangBai,10_theroad,thu⁴⁴,thu⁴⁴,tʰ u ⁴⁴,,Zhao2006,,,^th u ⁴⁴$,default
+ZhaozhuangBai-11_theforest-1,,ZhaozhuangBai,11_theforest,tsɯ³³ɕua³⁵,tsɯ³³ɕua³⁵,ts ɯ ³³ + ɕ w a ³⁵,,Zhao2006,,,^ts ɯ ³³ ɕ ua ³⁵$,default
+ZhaozhuangBai-12_theocean-1,,ZhaozhuangBai,12_theocean,kɔ²¹,kɔ²¹,k ɔ ²¹,,Zhao2006,,,^k ɔ ²¹$,default
+ZhaozhuangBai-13_thelake-1,,ZhaozhuangBai,13_thelake,ku²¹,ku²¹,k u ²¹,,Zhao2006,,,^k u ²¹$,default
+ZhaozhuangBai-14_theriver-1,,ZhaozhuangBai,14_theriver,kʋ³⁵,kʋ³⁵,k ʋ/ʊ ³⁵,,Zhao2006,,,^k ʋ ³⁵$,default
+ZhaozhuangBai-15_thefog-1,,ZhaozhuangBai,15_thefog,u⁵⁵lu⁵⁵,u⁵⁵lu⁵⁵,u ⁵⁵ + l u ⁵⁵,,Zhao2006,,,^u ⁵⁵ l u ⁵⁵$,default
+ZhaozhuangBai-16_thesnow-1,,ZhaozhuangBai,16_thesnow,ɕy⁴⁴,ɕy⁴⁴,ɕ y ⁴⁴,,Zhao2006,,,^ɕ y ⁴⁴$,default
+ZhaozhuangBai-17_thewind-1,,ZhaozhuangBai,17_thewind,pi³⁵si³⁵,pi³⁵si³⁵,p i ³⁵ + s i ³⁵,,Zhao2006,,,^p i ³⁵ s i ³⁵$,default
+ZhaozhuangBai-18_therain-1,,ZhaozhuangBai,18_therain,u³³ɕi⁴⁴,u³³ɕi⁴⁴,u ³³ + ɕ i ⁴⁴,,Zhao2006,,,^u ³³ ɕ i ⁴⁴$,default
+ZhaozhuangBai-19_theice-1,,ZhaozhuangBai,19_theice,piɯ⁴⁴,piɯ⁴⁴,p j ɯ ⁴⁴,,Zhao2006,,,^p iɯ ⁴⁴$,default
+ZhaozhuangBai-20_thewater-1,,ZhaozhuangBai,20_thewater,ɕy³³,ɕy³³,ɕ y ³³,,Zhao2006,,,^ɕ y ³³$,default
+ZhaozhuangBai-21_thefire-1,,ZhaozhuangBai,21_thefire,xui³³,xui³³,x w i ³³,,Zhao2006,,,^x ui ³³$,default
+ZhaozhuangBai-22_theashes-1,,ZhaozhuangBai,22_theashes,xua⁴²lɔ⁴²ɕu⁵⁵,xua⁴²lɔ⁴²ɕu⁵⁵,x w a ⁴² + l ɔ ⁴² + ɕ u ⁵⁵,,Zhao2006,,,^x ua ⁴² l ɔ ⁴² ɕ u ⁵⁵$,default
+ZhaozhuangBai-23_thehead-1,,ZhaozhuangBai,23_thehead,tɯ²¹pɔ³³,tɯ²¹pɔ³³,t ɯ ²¹ + p ɔ ³³,,Zhao2006,,,^t ɯ ²¹ p ɔ ³³$,default
+ZhaozhuangBai-24_thehair-1,,ZhaozhuangBai,24_thehair,tɯ²¹ma³⁵,tɯ²¹ma³⁵,t ɯ ²¹ + m a ³⁵,,Zhao2006,,,^t ɯ ²¹ m a ³⁵$,default
+ZhaozhuangBai-25_theear-1,,ZhaozhuangBai,25_theear,ȵi⁴⁴to³³,ȵi⁴⁴to³³,ȵ i ⁴⁴ + t o ³³,,Zhao2006,,,^ȵ i ⁴⁴ t o ³³$,default
+ZhaozhuangBai-26_theeye-1,,ZhaozhuangBai,26_theeye,ui³³,ui³³,w i ³³,,Zhao2006,,,^ui ³³$,default
+ZhaozhuangBai-27_thenose-1,,ZhaozhuangBai,27_thenose,pi³³fʋ⁴⁴tɯ²¹,pi³³fʋ⁴⁴tɯ²¹,p i ³³ + f ʋ/ʊ ⁴⁴ + t ɯ ²¹,,Zhao2006,,,^p i ³³ f ʋ ⁴⁴ t ɯ ²¹$,default
+ZhaozhuangBai-28_themouth-1,,ZhaozhuangBai,28_themouth,tɕy³³kɛ⁵⁵ne²¹,tɕy³³kɛ⁵⁵ne²¹,tɕ y ³³ + k ɛ ⁵⁵ + n e ²¹,,Zhao2006,,,^tɕ y ³³ k ɛ ⁵⁵ n e ²¹$,default
+ZhaozhuangBai-29_thetongue-1,,ZhaozhuangBai,29_thetongue,tse⁴²,tse⁴²,ts e ⁴²,,Zhao2006,,,^ts e ⁴²$,default
+ZhaozhuangBai-30_thetooth-1,,ZhaozhuangBai,30_thetooth,tsi⁴⁴pa⁴⁴,tsi⁴⁴pa⁴⁴,ts i ⁴⁴ + p a ⁴⁴,,Zhao2006,,,^ts i ⁴⁴ p a ⁴⁴$,default
+ZhaozhuangBai-31_thewisdomtooth-1,,ZhaozhuangBai,31_thewisdomtooth,tɔ³³ŋɛ²¹,tɔ³³ŋɛ²¹,t ɔ ³³ + ŋ ɛ ²¹,,Zhao2006,,,^t ɔ ³³ ŋ ɛ ²¹$,default
+ZhaozhuangBai-32_theneck-1,,ZhaozhuangBai,32_theneck,pɔ³⁵tsi⁴⁴ku⁴⁴,pɔ³⁵tsi⁴⁴ku⁴⁴,p ɔ ³⁵ + ts i ⁴⁴ + k u ⁴⁴,,Zhao2006,,,^p ɔ ³⁵ ts i ⁴⁴ k u ⁴⁴$,default
+ZhaozhuangBai-33_thebreast-1,,ZhaozhuangBai,33_thebreast,pa⁴²,pa⁴²,p a ⁴²,,Zhao2006,,,^p a ⁴²$,default
+ZhaozhuangBai-34_theback-1,,ZhaozhuangBai,34_theback,tɔ³³kɔ³³ɕi³⁵,tɔ³³kɔ³³ɕi³⁵,t ɔ ³³ + k ɔ ³³ + ɕ i ³⁵,,Zhao2006,,,^t ɔ ³³ k ɔ ³³ ɕ i ³⁵$,default
+ZhaozhuangBai-35_thehand-1,,ZhaozhuangBai,35_thehand,sɯ⁴⁴,sɯ⁴⁴,s ɯ ⁴⁴,,Zhao2006,,,^s ɯ ⁴⁴$,default
+ZhaozhuangBai-36_theleg-1,,ZhaozhuangBai,36_theleg,ko⁴⁴,ko⁴⁴,k o ⁴⁴,,Zhao2006,,,^k o ⁴⁴$,default
+ZhaozhuangBai-37_theknee-1,,ZhaozhuangBai,37_theknee,ɔ⁴⁴liɔ⁴⁴ui²¹kɛ³³,ɔ⁴⁴liɔ⁴⁴ui²¹kɛ³³,ɔ ⁴⁴ + l j ɔ ⁴⁴ + w i ²¹ + k ɛ ³³,,Zhao2006,,,^ɔ ⁴⁴ l iɔ ⁴⁴ ui ²¹ k ɛ ³³$,default
+ZhaozhuangBai-38_thefoot-1,,ZhaozhuangBai,38_thefoot,ko⁴⁴,ko⁴⁴,k o ⁴⁴,,Zhao2006,,,^k o ⁴⁴$,default
+ZhaozhuangBai-40_thebone-1,,ZhaozhuangBai,40_thebone,kua⁴⁴tɯ²¹,kua⁴⁴tɯ²¹,k w a ⁴⁴ + t ɯ ²¹,,Zhao2006,,,^k ua ⁴⁴ t ɯ ²¹$,default
+ZhaozhuangBai-39_theskin-1,,ZhaozhuangBai,39_theskin,pe²¹,pe²¹,p e ²¹,,Zhao2006,,,^p e ²¹$,default
+ZhaozhuangBai-41_theheart-1,,ZhaozhuangBai,41_theheart,ɕi³⁵,ɕi³⁵,ɕ i ³⁵,,Zhao2006,,,^ɕ i ³⁵$,default
+ZhaozhuangBai-42_theliver-1,,ZhaozhuangBai,42_theliver,ka³⁵,ka³⁵,k a ³⁵,,Zhao2006,,,^k a ³⁵$,default
+ZhaozhuangBai-43_themeat-1,,ZhaozhuangBai,43_themeat,kɛ²¹,kɛ²¹,k ɛ ²¹,,Zhao2006,,,^k ɛ ²¹$,default
+ZhaozhuangBai-44_theblood-1,,ZhaozhuangBai,44_theblood,ɕua⁴⁴,ɕua⁴⁴,ɕ w a ⁴⁴,,Zhao2006,,,^ɕ ua ⁴⁴$,default
+ZhaozhuangBai-45_theintestines-1,,ZhaozhuangBai,45_theintestines,tso²¹,tso²¹,ts o ²¹,,Zhao2006,,,^ts o ²¹$,default
+ZhaozhuangBai-46_thebelly-1,,ZhaozhuangBai,46_thebelly,fʋ⁴⁴,fʋ⁴⁴,f ʋ/ʊ ⁴⁴,,Zhao2006,,,^f ʋ ⁴⁴$,default
+ZhaozhuangBai-47_theperson-1,,ZhaozhuangBai,47_theperson,ȵi²¹kɛ³⁵,ȵi²¹kɛ³⁵,ȵ i ²¹ + k ɛ ³⁵,,Zhao2006,,,^ȵ i ²¹ k ɛ ³⁵$,default
+ZhaozhuangBai-48_who-1,,ZhaozhuangBai,48_who,a⁵⁵ȵi²¹,a⁵⁵ȵi²¹,a ⁵⁵ + ȵ i ²¹,,Zhao2006,,,^a ⁵⁵ ȵ i ²¹$,default
+ZhaozhuangBai-49_theman-1,,ZhaozhuangBai,49_theman,tsi⁴⁴ȵi²¹,tsi⁴⁴ȵi²¹,ts i ⁴⁴ + ȵ i ²¹,,Zhao2006,,,^ts i ⁴⁴ ȵ i ²¹$,default
+ZhaozhuangBai-50_thewoman-1,,ZhaozhuangBai,50_thewoman,nʋ³³ȵi²¹,nʋ³³ȵi²¹,n ʋ/ʊ ³³ + ȵ i ²¹,,Zhao2006,,,^n ʋ ³³ ȵ i ²¹$,default
+ZhaozhuangBai-51_thechild-1,,ZhaozhuangBai,51_thechild,sʋ⁵⁵tsʋ³³nʋ³³,sʋ⁵⁵tsʋ³³nʋ³³,s ʋ/ʊ ⁵⁵ + ts ʋ/ʊ ³³ + n ʋ/ʊ ³³,,Zhao2006,,,^s ʋ ⁵⁵ ts ʋ ³³ n ʋ ³³$,default
+ZhaozhuangBai-52_thefather-1,,ZhaozhuangBai,52_thefather,ti³³,ti³³,t i ³³,,Zhao2006,,,^t i ³³$,default
+ZhaozhuangBai-53_themother-1,,ZhaozhuangBai,53_themother,mɔ³³,mɔ³³,m ɔ ³³,,Zhao2006,,,^m ɔ ³³$,default
+ZhaozhuangBai-54_thehusband-1,,ZhaozhuangBai,54_thehusband,pɔ³⁵,pɔ³⁵,p ɔ ³⁵,,Zhao2006,,,^p ɔ ³⁵$,default
+ZhaozhuangBai-55_thewife-1,,ZhaozhuangBai,55_thewife,vʋ³³,vʋ³³,v ʋ/ʊ ³³,,Zhao2006,,,^v ʋ ³³$,default
+ZhaozhuangBai-56_theanimal-1,,ZhaozhuangBai,56_theanimal,to⁵⁵vʋ³⁵,to⁵⁵vʋ³⁵,t o ⁵⁵ + v ʋ/ʊ ³⁵,,Zhao2006,,,^t o ⁵⁵ v ʋ ³⁵$,default
+ZhaozhuangBai-57_thedog-1,,ZhaozhuangBai,57_thedog,khua⁴⁴,khua⁴⁴,kʰ w a ⁴⁴,,Zhao2006,,,^kh ua ⁴⁴$,default
+ZhaozhuangBai-58_thebird-1,,ZhaozhuangBai,58_thebird,tso⁴⁴,tso⁴⁴,ts o ⁴⁴,,Zhao2006,,,^ts o ⁴⁴$,default
+ZhaozhuangBai-59_thefish-1,,ZhaozhuangBai,59_thefish,ŋʋ³⁵,ŋʋ³⁵,ŋ ʋ/ʊ ³⁵,,Zhao2006,,,^ŋ ʋ ³⁵$,default
+ZhaozhuangBai-60_thesnake-1,,ZhaozhuangBai,60_thesnake,khʋ⁴⁴,khʋ⁴⁴,kʰ ʋ/ʊ ⁴⁴,,Zhao2006,,,^kh ʋ ⁴⁴$,default
+ZhaozhuangBai-61_thelouse-1,,ZhaozhuangBai,61_thelouse,ɕi4⁴,ɕi4⁴,ɕ i ⁴,,Zhao2006,,,^ɕ i 4⁴$,default
+ZhaozhuangBai-62_theworm-1,,ZhaozhuangBai,62_theworm,tsʋ²¹,tsʋ²¹,ts ʋ/ʊ ²¹,,Zhao2006,,,^ts ʋ ²¹$,default
+ZhaozhuangBai-63_thehorn-1,,ZhaozhuangBai,63_thehorn,kʋ⁴⁴,kʋ⁴⁴,k ʋ/ʊ ⁴⁴,,Zhao2006,,,^k ʋ ⁴⁴$,default
+ZhaozhuangBai-64_thewing-1,,ZhaozhuangBai,64_thewing,ʑi³⁵la⁴⁴khʋ⁵⁵,ʑi³⁵la⁴⁴khʋ⁵⁵,ʑ i ³⁵ + l a ⁴⁴ + kʰ ʋ/ʊ ⁵⁵,,Zhao2006,,,^ʑ i ³⁵ l a ⁴⁴ kh ʋ ⁵⁵$,default
+ZhaozhuangBai-65_thefeather-1,,ZhaozhuangBai,65_thefeather,ma²¹,ma²¹,m a ²¹,,Zhao2006,,,^m a ²¹$,default
+ZhaozhuangBai-66_thenail-1,,ZhaozhuangBai,66_thenail,tsua³³,tsua³³,ts w a ³³,,Zhao2006,,,^ts ua ³³$,default
+ZhaozhuangBai-67_thetail-1,,ZhaozhuangBai,67_thetail,mi⁴⁴tu³⁵,mi⁴⁴tu³⁵,m i ⁴⁴ + t u ³⁵,,Zhao2006,,,^m i ⁴⁴ t u ³⁵$,default
+ZhaozhuangBai-68_theegg-1,,ZhaozhuangBai,68_theegg,se⁴⁴,se⁴⁴,s e ⁴⁴,,Zhao2006,,,^s e ⁴⁴$,default
+ZhaozhuangBai-69_thetree-1,,ZhaozhuangBai,69_thetree,tsɯ³³,tsɯ³³,ts ɯ ³³,,Zhao2006,,,^ts ɯ ³³$,default
+ZhaozhuangBai-70_theleaf-1,,ZhaozhuangBai,70_theleaf,se⁴⁴,se⁴⁴,s e ⁴⁴,,Zhao2006,,,^s e ⁴⁴$,default
+ZhaozhuangBai-71_thebark-1,,ZhaozhuangBai,71_thebark,tsɯ³¹pe²¹,tsɯ³¹pe²¹,ts ɯ ³¹ + p e ²¹,,Zhao2006,,,^ts ɯ ³¹ p e ²¹$,default
+ZhaozhuangBai-72_theroot-1,,ZhaozhuangBai,72_theroot,mi⁴⁴/te⁴⁴,mi⁴⁴,m i ⁴⁴,,Zhao2006,,,^m i ⁴⁴$,default
+ZhaozhuangBai-72_theroot-2,,ZhaozhuangBai,72_theroot,mi⁴⁴/te⁴⁴,te⁴⁴,t e ⁴⁴,,Zhao2006,,,^t e ⁴⁴$,default
+ZhaozhuangBai-73_theflower-1,,ZhaozhuangBai,73_theflower,xuo³⁵,xuo³⁵,x w o ³⁵,,Zhao2006,,,^x uo ³⁵$,default
+ZhaozhuangBai-74_thegrass-1,,ZhaozhuangBai,74_thegrass,tɕhy⁴⁴,tɕhy⁴⁴,tɕʰ y ⁴⁴,,Zhao2006,,,^tɕh y ⁴⁴$,default
+ZhaozhuangBai-75_thethorn-1,,ZhaozhuangBai,75_thethorn,vʋ³⁵,vʋ³⁵,v ʋ/ʊ ³⁵,,Zhao2006,,,^v ʋ ³⁵$,default
+ZhaozhuangBai-76_theseed-1,,ZhaozhuangBai,76_theseed,tsʋ³³,tsʋ³³,ts ʋ/ʊ ³³,,Zhao2006,,,^ts ʋ ³³$,default
+ZhaozhuangBai-77_thesmoke-1,,ZhaozhuangBai,77_thesmoke,xui³³ɕɛ⁵⁵,xui³³ɕɛ⁵⁵,x w i ³³ + ɕ ɛ ⁵⁵,,Zhao2006,,,^x ui ³³ ɕ ɛ ⁵⁵$,default
+ZhaozhuangBai-78_thesalt-1,,ZhaozhuangBai,78_thesalt,pi³⁵,pi³⁵,p i ³⁵,,Zhao2006,,,^p i ³⁵$,default
+ZhaozhuangBai-79_thefruit-1,,ZhaozhuangBai,79_thefruit,ɕy⁵⁵li⁵⁵ta²¹kuo³³,ɕy⁵⁵li⁵⁵ta²¹kuo³³,ɕ y ⁵⁵ + l i ⁵⁵ + t a ²¹ + k w o ³³,,Zhao2006,,,^ɕ y ⁵⁵ l i ⁵⁵ t a ²¹ k uo ³³$,default
+ZhaozhuangBai-80_thefat-1,,ZhaozhuangBai,80_thefat,tsi³⁵,tsi³⁵,ts i ³⁵,,Zhao2006,,,^ts i ³⁵$,default
+ZhaozhuangBai-81_one-1,,ZhaozhuangBai,81_one,"a⁴⁴, ʑi³⁵",a⁴⁴,a ⁴⁴,,Zhao2006,,,^a ⁴⁴$,default
+ZhaozhuangBai-81_one-2,,ZhaozhuangBai,81_one,"a⁴⁴, ʑi³⁵",ʑi³⁵,ʑ i ³⁵,,Zhao2006,,,^ʑ i ³⁵$,default
+ZhaozhuangBai-82_two-1,,ZhaozhuangBai,82_two,"ko³³, ʑi³⁵",ko³³,k o ³³,,Zhao2006,,,^k o ³³$,default
+ZhaozhuangBai-82_two-2,,ZhaozhuangBai,82_two,"ko³³, ʑi³⁵",ʑi³⁵,ʑ i ³⁵,,Zhao2006,,,^ʑ i ³⁵$,default
+ZhaozhuangBai-83_three-1,,ZhaozhuangBai,83_three,sa⁵⁵,sa⁵⁵,s a ⁵⁵,,Zhao2006,,,^s a ⁵⁵$,default
+ZhaozhuangBai-84_four-1,,ZhaozhuangBai,84_four,ɕi⁴⁴,ɕi⁴⁴,ɕ i ⁴⁴,,Zhao2006,,,^ɕ i ⁴⁴$,default
+ZhaozhuangBai-85_five-1,,ZhaozhuangBai,85_five,ŋʋ³³,ŋʋ³³,ŋ ʋ/ʊ ³³,,Zhao2006,,,^ŋ ʋ ³³$,default
+ZhaozhuangBai-86_big-1,,ZhaozhuangBai,86_big,tɔ³³,tɔ³³,t ɔ ³³,,Zhao2006,,,^t ɔ ³³$,default
+ZhaozhuangBai-87_long-1,,ZhaozhuangBai,87_long,tso²¹,tso²¹,ts o ²¹,,Zhao2006,,,^ts o ²¹$,default
+ZhaozhuangBai-88_short-1,,ZhaozhuangBai,88_short,tshɯ⁵⁵,tshɯ⁵⁵,tsʰ ɯ ⁵⁵,,Zhao2006,,,^tsh ɯ ⁵⁵$,default
+ZhaozhuangBai-89_many-1,,ZhaozhuangBai,89_many,tɕi³⁵,tɕi³⁵,tɕ i ³⁵,,Zhao2006,,,^tɕ i ³⁵$,default
+ZhaozhuangBai-90_few-1,,ZhaozhuangBai,90_few,ɕo³³,ɕo³³,ɕ o ³³,,Zhao2006,,,^ɕ o ³³$,default
+ZhaozhuangBai-91_thick-1,,ZhaozhuangBai,91_thick,kɯ³³,kɯ³³,k ɯ ³³,,Zhao2006,,,^k ɯ ³³$,default
+ZhaozhuangBai-92_thin-1,,ZhaozhuangBai,92_thin,pu⁴²,pu⁴²,p u ⁴²,,Zhao2006,,,^p u ⁴²$,default
+ZhaozhuangBai-93_cold-1,,ZhaozhuangBai,93_cold,kɯ³⁵,kɯ³⁵,k ɯ ³⁵,,Zhao2006,,,^k ɯ ³⁵$,default
+ZhaozhuangBai-94_hot-1,,ZhaozhuangBai,94_hot,ui³⁵,ui³⁵,w i ³⁵,,Zhao2006,,,^ui ³⁵$,default
+ZhaozhuangBai-95_dry-1,,ZhaozhuangBai,95_dry,ka³⁵,ka³⁵,k a ³⁵,,Zhao2006,,,^k a ³⁵$,default
+ZhaozhuangBai-96_wet-1,,ZhaozhuangBai,96_wet,phɛ⁵⁵,phɛ⁵⁵,pʰ ɛ ⁵⁵,,Zhao2006,,,^ph ɛ ⁵⁵$,default
+ZhaozhuangBai-97_rotten-1,,ZhaozhuangBai,97_rotten,na³³,na³³,n a ³³,,Zhao2006,,,^n a ³³$,default
+ZhaozhuangBai-98_black-1,,ZhaozhuangBai,98_black,xɯ⁴⁴,xɯ⁴⁴,x ɯ ⁴⁴,,Zhao2006,,,^x ɯ ⁴⁴$,default
+ZhaozhuangBai-99_white-1,,ZhaozhuangBai,99_white,pɛ⁴²,pɛ⁴²,p ɛ ⁴²,,Zhao2006,,,^p ɛ ⁴²$,default
+ZhaozhuangBai-100_red-1,,ZhaozhuangBai,100_red,xuo³⁵,xuo³⁵,x w o ³⁵,,Zhao2006,,,^x uo ³⁵$,default
+ZhaozhuangBai-101_green-1,,ZhaozhuangBai,101_green,lʋ⁴⁴,lʋ⁴⁴,l ʋ/ʊ ⁴⁴,,Zhao2006,,,^l ʋ ⁴⁴$,default
+ZhaozhuangBai-102_yellow-1,,ZhaozhuangBai,102_yellow,ŋʋ²¹,ŋʋ²¹,ŋ ʋ/ʊ ²¹,,Zhao2006,,,^ŋ ʋ ²¹$,default
+ZhaozhuangBai-103_old-1,,ZhaozhuangBai,103_old,ku³³,ku³³,k u ³³,,Zhao2006,,,^k u ³³$,default
+ZhaozhuangBai-104_young-1,,ZhaozhuangBai,104_young,se³³,se³³,s e ³³,,Zhao2006,,,^s e ³³$,default
+ZhaozhuangBai-105_sharp-1,,ZhaozhuangBai,105_sharp,tɕɛ³⁵,tɕɛ³⁵,tɕ ɛ ³⁵,,Zhao2006,,,^tɕ ɛ ³⁵$,default
+ZhaozhuangBai-106_round-1,,ZhaozhuangBai,106_round,ui²¹,ui²¹,w i ²¹,,Zhao2006,,,^ui ²¹$,default
+ZhaozhuangBai-107_smooth-1,,ZhaozhuangBai,107_smooth,pɛ²¹,pɛ²¹,p ɛ ²¹,,Zhao2006,,,^p ɛ ²¹$,default
+ZhaozhuangBai-108_toswell-1,,ZhaozhuangBai,108_toswell,tshʋ⁵⁵,tshʋ⁵⁵,tsʰ ʋ/ʊ ⁵⁵,,Zhao2006,,,^tsh ʋ ⁵⁵$,default
+ZhaozhuangBai-109_dirty-1,,ZhaozhuangBai,109_dirty,la⁴⁴tha⁴⁴,la⁴⁴tha⁴⁴,l a ⁴⁴ + tʰ a ⁴⁴,,Zhao2006,,,^l a ⁴⁴ th a ⁴⁴$,default
+ZhaozhuangBai-110_good-1,,ZhaozhuangBai,110_good,xu³³,xu³³,x u ³³,,Zhao2006,,,^x u ³³$,default
+ZhaozhuangBai-111_bad-1,,ZhaozhuangBai,111_bad,xi⁴⁴,xi⁴⁴,x i ⁴⁴,,Zhao2006,,,^x i ⁴⁴$,default
+ZhaozhuangBai-112_right-1,,ZhaozhuangBai,112_right,xɔ³⁵,xɔ³⁵,x ɔ ³⁵,,Zhao2006,,,^x ɔ ³⁵$,default
+ZhaozhuangBai-113_todie-1,,ZhaozhuangBai,113_todie,ɕi³³,ɕi³³,ɕ i ³³,,Zhao2006,,,^ɕ i ³³$,default
+ZhaozhuangBai-114_tolive-1,,ZhaozhuangBai,114_tolive,xɛ⁵⁵,xɛ⁵⁵,x ɛ ⁵⁵,,Zhao2006,,,^x ɛ ⁵⁵$,default
+ZhaozhuangBai-115_full-1,,ZhaozhuangBai,115_full,ma³³,ma³³,m a ³³,,Zhao2006,,,^m a ³³$,default
+ZhaozhuangBai-116_new-1,,ZhaozhuangBai,116_new,ɕi³⁵,ɕi³⁵,ɕ i ³⁵,,Zhao2006,,,^ɕ i ³⁵$,default
+ZhaozhuangBai-117_far-1,,ZhaozhuangBai,117_far,tui³³,tui³³,t w i ³³,,Zhao2006,,,^t ui ³³$,default
+ZhaozhuangBai-118_near-1,,ZhaozhuangBai,118_near,tɕi³³,tɕi³³,tɕ i ³³,,Zhao2006,,,^tɕ i ³³$,default
+ZhaozhuangBai-119_wide-1,,ZhaozhuangBai,119_wide,khua⁴⁴,khua⁴⁴,kʰ w a ⁴⁴,,Zhao2006,,,^kh ua ⁴⁴$,default
+ZhaozhuangBai-120_narrow-1,,ZhaozhuangBai,120_narrow,tsɛ⁴⁴,tsɛ⁴⁴,ts ɛ ⁴⁴,,Zhao2006,,,^ts ɛ ⁴⁴$,default
+ZhaozhuangBai-121_heavy-1,,ZhaozhuangBai,121_heavy,tsʋ³³,tsʋ³³,ts ʋ/ʊ ³³,,Zhao2006,,,^ts ʋ ³³$,default
+ZhaozhuangBai-122_straight-1,,ZhaozhuangBai,122_straight,miou⁴⁴,miou⁴⁴,m j ou ⁴⁴,,Zhao2006,,,^m iou ⁴⁴$,default
+ZhaozhuangBai-123_studid-1,,ZhaozhuangBai,123_studid,xa³⁵,xa³⁵,x a ³⁵,,Zhao2006,,,^x a ³⁵$,default
+ZhaozhuangBai-124_toeat-1,,ZhaozhuangBai,124_toeat,ɣɯ⁴⁴,ɣɯ⁴⁴,ɣ ɯ ⁴⁴,,Zhao2006,,,^ɣ ɯ ⁴⁴$,default
+ZhaozhuangBai-125_todrink-1,,ZhaozhuangBai,125_todrink,ɯ³³,ɯ³³,ɯ ³³,,Zhao2006,,,^ɯ ³³$,default
+ZhaozhuangBai-126_tobreathe-1,,ZhaozhuangBai,126_tobreathe,tɕhui³³tɕhi⁴⁴,tɕhui³³tɕhi⁴⁴,tɕʰ w i ³³ + t i ⁴⁴,,Zhao2006,,,^tɕh ui ³³ tɕh i ⁴⁴$,default
+ZhaozhuangBai-127_tosay-1,,ZhaozhuangBai,127_tosay,ɕua⁴⁴;tɕa³³,ɕua⁴⁴,ɕ w a ⁴⁴,,Zhao2006,,,^ɕ ua ⁴⁴$,default
+ZhaozhuangBai-127_tosay-2,,ZhaozhuangBai,127_tosay,ɕua⁴⁴;tɕa³³,tɕa³³,tɕ a ³³,,Zhao2006,,,^tɕ a ³³$,default
+ZhaozhuangBai-128_tosing-1,,ZhaozhuangBai,128_tosing,tsha⁵⁵,tsha⁵⁵,tsʰ a ⁵⁵,,Zhao2006,,,^tsh a ⁵⁵$,default
+ZhaozhuangBai-129_tolaugh-1,,ZhaozhuangBai,129_tolaugh,sɔ³³,sɔ³³,s ɔ ³³,,Zhao2006,,,^s ɔ ³³$,default
+ZhaozhuangBai-130_tohear-1,,ZhaozhuangBai,130_tohear,tɕhɛ⁵⁵tɯ⁴⁴,tɕhɛ⁵⁵tɯ⁴⁴,tɕʰ ɛ ⁵⁵ + t ɯ ⁴⁴,,Zhao2006,,,^tɕh ɛ ⁵⁵ t ɯ ⁴⁴$,default
+ZhaozhuangBai-131_tosee-1,,ZhaozhuangBai,131_tosee,a³³tɯ⁴⁴,a³³tɯ⁴⁴,a ³³ + t ɯ ⁴⁴,,Zhao2006,,,^a ³³ t ɯ ⁴⁴$,default
+ZhaozhuangBai-132_tosmell-1,,ZhaozhuangBai,132_tosmell,tɕhu⁵⁵,tɕhu⁵⁵,tɕʰ u ⁵⁵,,Zhao2006,,,^tɕh u ⁵⁵$,default
+ZhaozhuangBai-133_tospit-1,,ZhaozhuangBai,133_tospit,tshi⁵⁵,tshi⁵⁵,tsʰ i ⁵⁵,,Zhao2006,,,^tsh i ⁵⁵$,default
+ZhaozhuangBai-134_tovomit-1,,ZhaozhuangBai,134_tovomit,ta⁴⁴,ta⁴⁴,t a ⁴⁴,,Zhao2006,,,^t a ⁴⁴$,default
+ZhaozhuangBai-135_toturn-1,,ZhaozhuangBai,135_toturn,tɕy⁴⁴,tɕy⁴⁴,tɕ y ⁴⁴,,Zhao2006,,,^tɕ y ⁴⁴$,default
+ZhaozhuangBai-136_toplay-1,,ZhaozhuangBai,136_toplay,tɕho³³,tɕho³³,tɕʰ o ³³,,Zhao2006,,,^tɕh o ³³$,default
+ZhaozhuangBai-137_tostand-1,,ZhaozhuangBai,137_tostand,tsɯ³³,tsɯ³³,ts ɯ ³³,,Zhao2006,,,^ts ɯ ³³$,default
+ZhaozhuangBai-138_tosit-1,,ZhaozhuangBai,138_tosit,kʋ⁴⁴,kʋ⁴⁴,k ʋ/ʊ ⁴⁴,,Zhao2006,,,^k ʋ ⁴⁴$,default
+ZhaozhuangBai-139_togo-1,,ZhaozhuangBai,139_togo,pe⁴⁴,pe⁴⁴,p e ⁴⁴,,Zhao2006,,,^p e ⁴⁴$,default
+ZhaozhuangBai-140_tocome-1,,ZhaozhuangBai,140_tocome,ŋɛ³⁵,ŋɛ³⁵,ŋ ɛ ³⁵,,Zhao2006,,,^ŋ ɛ ³⁵$,default
+ZhaozhuangBai-141_tosleep-1,,ZhaozhuangBai,141_tosleep,tshɛ⁴⁴,tshɛ⁴⁴,tsʰ ɛ ⁴⁴,,Zhao2006,,,^tsh ɛ ⁴⁴$,default
+ZhaozhuangBai-142_tolie-1,,ZhaozhuangBai,142_tolie,kɯ³³,kɯ³³,k ɯ ³³,,Zhao2006,,,^k ɯ ³³$,default
+ZhaozhuangBai-143_tofly-1,,ZhaozhuangBai,143_tofly,fʋ³⁵,fʋ³⁵,f ʋ/ʊ ³⁵,,Zhao2006,,,^f ʋ ³⁵$,default
+ZhaozhuangBai-144_tosuck-1,,ZhaozhuangBai,144_tosuck,tɕi⁴⁴,tɕi⁴⁴,tɕ i ⁴⁴,,Zhao2006,,,^tɕ i ⁴⁴$,default
+ZhaozhuangBai-145_tosplit-1,,ZhaozhuangBai,145_tosplit,phe⁵⁵,phe⁵⁵,pʰ e ⁵⁵,,Zhao2006,,,^ph e ⁵⁵$,default
+ZhaozhuangBai-146_tosplitopen-1,,ZhaozhuangBai,146_tosplitopen,phɛ³⁵,phɛ³⁵,pʰ ɛ ³⁵,,Zhao2006,,,^ph ɛ ³⁵$,default
+ZhaozhuangBai-147_topush-1,,ZhaozhuangBai,147_topush,tsho⁵⁵,tsho⁵⁵,tsʰ o ⁵⁵,,Zhao2006,,,^tsh o ⁵⁵$,default
+ZhaozhuangBai-148_topull-1,,ZhaozhuangBai,148_topull,tɕi³³,tɕi³³,tɕ i ³³,,Zhao2006,,,^tɕ i ³³$,default
+ZhaozhuangBai-149_tokill-1,,ZhaozhuangBai,149_tokill,ɕa⁴⁴,ɕa⁴⁴,ɕ a ⁴⁴,,Zhao2006,,,^ɕ a ⁴⁴$,default
+ZhaozhuangBai-150_tothrow-1,,ZhaozhuangBai,150_tothrow,liou⁴⁴,liou⁴⁴,l j ou ⁴⁴,,Zhao2006,,,^l iou ⁴⁴$,default
+ZhaozhuangBai-151_todig-1,,ZhaozhuangBai,151_todig,ua⁴²,ua⁴²,w a ⁴²,,Zhao2006,,,^ua ⁴²$,default
+ZhaozhuangBai-152_tobite-1,,ZhaozhuangBai,152_tobite,ŋa⁴⁴,ŋa⁴⁴,ŋ a ⁴⁴,,Zhao2006,,,^ŋ a ⁴⁴$,default
+ZhaozhuangBai-153_toscratch-1,,ZhaozhuangBai,153_toscratch,tɕua⁴⁴,tɕua⁴⁴,tɕ w a ⁴⁴,,Zhao2006,,,^tɕ ua ⁴⁴$,default
+ZhaozhuangBai-154_tosqueeze-1,,ZhaozhuangBai,154_tosqueeze,ʑa⁴⁴,ʑa⁴⁴,ʑ a ⁴⁴,,Zhao2006,,,^ʑ a ⁴⁴$,default
+ZhaozhuangBai-155_toblow-1,,ZhaozhuangBai,155_toblow,phɯ⁵⁵,phɯ⁵⁵,pʰ ɯ ⁵⁵,,Zhao2006,,,^ph ɯ ⁵⁵$,default
+ZhaozhuangBai-157_tofight-1,,ZhaozhuangBai,157_tofight,tɛ⁴⁴tɕa⁴⁴,tɛ⁴⁴tɕa⁴⁴,t ɛ ⁴⁴ + tɕ a ⁴⁴,,Zhao2006,,,^t ɛ ⁴⁴ tɕ a ⁴⁴$,default
+ZhaozhuangBai-156_tohit-1,,ZhaozhuangBai,156_tohit,tɛ⁴⁴,tɛ⁴⁴,t ɛ ⁴⁴,,Zhao2006,,,^t ɛ ⁴⁴$,default
+ZhaozhuangBai-158_tohunt-1,,ZhaozhuangBai,158_tohunt,tɕi⁴²sv⁴⁴,tɕi⁴²sv⁴⁴,tɕ i ⁴² + s v ⁴⁴,,Zhao2006,,,^tɕ i ⁴² s v ⁴⁴$,default
+ZhaozhuangBai-159_towipe-1,,ZhaozhuangBai,159_towipe,ma³⁵,ma³⁵,m a ³⁵,,Zhao2006,,,^m a ³⁵$,default
+ZhaozhuangBai-160_towash-1,,ZhaozhuangBai,160_towash,se³³,se³³,s e ³³,,Zhao2006,,,^s e ³³$,default
+ZhaozhuangBai-161_totie-1,,ZhaozhuangBai,161_totie,tshɯ⁴⁴,tshɯ⁴⁴,tsʰ ɯ ⁴⁴,,Zhao2006,,,^tsh ɯ ⁴⁴$,default
+ZhaozhuangBai-162_tocount-1,,ZhaozhuangBai,162_tocount,sɯ⁵⁵/ɕuɛ⁴⁴,sɯ⁵⁵,s ɯ ⁵⁵,,Zhao2006,,,^s ɯ ⁵⁵$,default
+ZhaozhuangBai-162_tocount-2,,ZhaozhuangBai,162_tocount,sɯ⁵⁵/ɕuɛ⁴⁴,ɕuɛ⁴⁴,ɕ w ɛ ⁴⁴,,Zhao2006,,,^ɕ uɛ ⁴⁴$,default
+ZhaozhuangBai-163_tocut-1,,ZhaozhuangBai,163_tocut,tso⁴⁴,tso⁴⁴,ts o ⁴⁴,,Zhao2006,,,^ts o ⁴⁴$,default
+ZhaozhuangBai-164_tofall-1,,ZhaozhuangBai,164_tofall,lua⁴²,lua⁴²,l w a ⁴²,,Zhao2006,,,^l ua ⁴²$,default
+ZhaozhuangBai-165_tosew-1,,ZhaozhuangBai,165_tosew,tse²¹,tse²¹,ts e ²¹,,Zhao2006,,,^ts e ²¹$,default
+ZhaozhuangBai-166_totake-1,,ZhaozhuangBai,166_totake,ne⁴⁴,ne⁴⁴,n e ⁴⁴,,Zhao2006,,,^n e ⁴⁴$,default
+ZhaozhuangBai-167_topull-1,,ZhaozhuangBai,167_topull,khi⁵⁵,khi⁵⁵,kʰ i ⁵⁵,,Zhao2006,,,^kh i ⁵⁵$,default
+ZhaozhuangBai-168_togive-1,,ZhaozhuangBai,168_togive,kɯ⁴⁴,kɯ⁴⁴,k ɯ ⁴⁴,,Zhao2006,,,^k ɯ ⁴⁴$,default
+ZhaozhuangBai-169_toburn-1,,ZhaozhuangBai,169_toburn,ȵɯ³³ɕu⁵⁵,ȵɯ³³ɕu⁵⁵,ȵ ɯ ³³ + ɕ u ⁵⁵,,Zhao2006,,,^ȵ ɯ ³³ ɕ u ⁵⁵$,default
+ZhaozhuangBai-170_toflow-1,,ZhaozhuangBai,170_toflow,kɯ²¹,kɯ²¹,k ɯ ²¹,,Zhao2006,,,^k ɯ ²¹$,default
+ZhaozhuangBai-171_toswim-1,,ZhaozhuangBai,171_toswim,ʑa²¹phɯ⁵⁵,ʑa²¹phɯ⁵⁵,ʑ a ²¹ + pʰ ɯ ⁵⁵,,Zhao2006,,,^ʑ a ²¹ ph ɯ ⁵⁵$,default
+ZhaozhuangBai-172_tofloat-1,,ZhaozhuangBai,172_tofloat,pɯ²¹,pɯ²¹,p ɯ ²¹,,Zhao2006,,,^p ɯ ²¹$,default
+ZhaozhuangBai-173_thename-1,,ZhaozhuangBai,173_thename,miɛ³⁵,miɛ³⁵,m j ɛ ³⁵,,Zhao2006,,,^m iɛ ³⁵$,default
+ZhaozhuangBai-174_therope-1,,ZhaozhuangBai,174_therope,so⁴⁴,so⁴⁴,s o ⁴⁴,,Zhao2006,,,^s o ⁴⁴$,default
+ZhaozhuangBai-175_thestick-1,,ZhaozhuangBai,175_thestick,kua⁴²,kua⁴²,k w a ⁴²,,Zhao2006,,,^k ua ⁴²$,default
+ZhaozhuangBai-176_i-1,,ZhaozhuangBai,176_i,ŋɔ³³,ŋɔ³³,ŋ ɔ ³³,,Zhao2006,,,^ŋ ɔ ³³$,default
+ZhaozhuangBai-177_we-1,,ZhaozhuangBai,177_we,ŋa⁵⁵;ȵa⁵⁵,ŋa⁵⁵,ŋ a ⁵⁵,,Zhao2006,,,^ŋ a ⁵⁵$,default
+ZhaozhuangBai-177_we-2,,ZhaozhuangBai,177_we,ŋa⁵⁵;ȵa⁵⁵,ȵa⁵⁵,ȵ a ⁵⁵,,Zhao2006,,,^ȵ a ⁵⁵$,default
+ZhaozhuangBai-178_thou-1,,ZhaozhuangBai,178_thou,nɔ³³,nɔ³³,n ɔ ³³,,Zhao2006,,,^n ɔ ³³$,default
+ZhaozhuangBai-179_hesheit-1,,ZhaozhuangBai,179_hesheit,pɔ³³,pɔ³³,p ɔ ³³,,Zhao2006,,,^p ɔ ³³$,default
+ZhaozhuangBai-180_they-1,,ZhaozhuangBai,180_they,pa⁵⁵,pa⁵⁵,p a ⁵⁵,,Zhao2006,,,^p a ⁵⁵$,default
+ZhaozhuangBai-181_all-1,,ZhaozhuangBai,181_all,tsa⁵⁵tiɛ⁴⁴,tsa⁵⁵tiɛ⁴⁴,ts a ⁵⁵ + t j ɛ ⁴⁴,,Zhao2006,,,^ts a ⁵⁵ t iɛ ⁴⁴$,default
+ZhaozhuangBai-182_what-1,,ZhaozhuangBai,182_what,a⁵⁵ʑa³³,a⁵⁵ʑa³³,a ⁵⁵ + ʑ a ³³,,Zhao2006,,,^a ⁵⁵ ʑ a ³³$,default
+ZhaozhuangBai-183_how-1,,ZhaozhuangBai,183_how,tse⁵⁵kɔ³³ne²,tse⁵⁵kɔ³³ne²,ts e ⁵⁵ + k ɔ ³³ + n e ²¹,,Zhao2006,,,^ts e ⁵⁵ k ɔ ³³ n e ²$,default
+ZhaozhuangBai-184_this-1,,ZhaozhuangBai,184_this,nɯ³³,nɯ³³,n ɯ ³³,,Zhao2006,,,^n ɯ ³³$,default
+ZhaozhuangBai-185_here-1,,ZhaozhuangBai,185_here,nɯ³³ui³³;a⁵⁵ta⁴⁴,nɯ³³ui³³,n ɯ ³³ + w i ³³,,Zhao2006,,,^n ɯ ³³ ui ³³$,default
+ZhaozhuangBai-185_here-2,,ZhaozhuangBai,185_here,nɯ³³ui³³;a⁵⁵ta⁴⁴,a⁵⁵ta⁴⁴,a ⁵⁵ + t a ⁴⁴,,Zhao2006,,,^a ⁵⁵ t a ⁴⁴$,default
+ZhaozhuangBai-186_that-1,,ZhaozhuangBai,186_that,na⁵⁵;pɯ³³,na⁵⁵,n a ⁵⁵,,Zhao2006,,,^n a ⁵⁵$,default
+ZhaozhuangBai-186_that-2,,ZhaozhuangBai,186_that,na⁵⁵;pɯ³³,pɯ³³,p ɯ ³³,,Zhao2006,,,^p ɯ ³³$,default
+ZhaozhuangBai-187_there-1,,ZhaozhuangBai,187_there,pɯ⁵⁵ta⁴⁴,pɯ⁵⁵ta⁴⁴,p ɯ ⁵⁵ + t a ⁴⁴,,Zhao2006,,,^p ɯ ⁵⁵ t a ⁴⁴$,default
+ZhaozhuangBai-188_where-1,,ZhaozhuangBai,188_where,a⁵⁵na⁴⁴,a⁵⁵na⁴⁴,a ⁵⁵ + n a ⁴⁴,,Zhao2006,,,^a ⁵⁵ n a ⁴⁴$,default
+ZhaozhuangBai-189_right-1,,ZhaozhuangBai,189_right,tsɛ⁴⁴,tsɛ⁴⁴,ts ɛ ⁴⁴,,Zhao2006,,,^ts ɛ ⁴⁴$,default
+ZhaozhuangBai-190_left-1,,ZhaozhuangBai,190_left,pi³⁵,pi³⁵,p i ³⁵,,Zhao2006,,,^p i ³⁵$,default
+ZhaozhuangBai-191_in-1,,ZhaozhuangBai,191_in,tsɯ³⁵,tsɯ³⁵,ts ɯ ³⁵,,Zhao2006,,,^ts ɯ ³⁵$,default
+ZhaozhuangBai-192_theyear-1,,ZhaozhuangBai,192_theyear,ɕua⁴⁴,ɕua⁴⁴,ɕ w a ⁴⁴,,Zhao2006,,,^ɕ ua ⁴⁴$,default
+ZhaozhuangBai-193_theday-1,,ZhaozhuangBai,193_theday,ȵi⁴⁴,ȵi⁴⁴,ȵ i ⁴⁴,,Zhao2006,,,^ȵ i ⁴⁴$,default
+ZhaozhuangBai-194_theevening-1,,ZhaozhuangBai,194_theevening,pe³³kɛ⁴⁴,pe³³kɛ⁴⁴,p e ³³ + k ɛ ⁴⁴,,Zhao2006,,,^p e ³³ k ɛ ⁴⁴$,default
+ZhaozhuangBai-195_tofear-1,,ZhaozhuangBai,195_tofear,kɛ³⁵,kɛ³⁵,k ɛ ³⁵,,Zhao2006,,,^k ɛ ³⁵$,default
+ZhaozhuangBai-196_tothink-1,,ZhaozhuangBai,196_tothink,mi³³,mi³³,m i ³³,,Zhao2006,,,^m i ³³$,default
+ZhaozhuangBai-197_toknow-1,,ZhaozhuangBai,197_toknow,zɯ³³ki⁴⁴,zɯ³³ki⁴⁴,z ɯ ³³ + k i ⁴⁴,,Zhao2006,,,^z ɯ ³³ k i ⁴⁴$,default
+ZhaozhuangBai-198_not-1,,ZhaozhuangBai,198_not,pɯ³³,pɯ³³,p ɯ ³³,,Zhao2006,,,^p ɯ ³³$,default
+ZhaozhuangBai-199_and-1,,ZhaozhuangBai,199_and,ȵi⁵⁵,ȵi⁵⁵,ȵ i ⁵⁵,,Zhao2006,,,^ȵ i ⁵⁵$,default
+ZhaozhuangBai-200_because-1,,ZhaozhuangBai,200_because,ʑo⁴⁴ui³⁵,ʑo⁴⁴ui³⁵,ʑ o ⁴⁴ + w i ³⁵,,Zhao2006,,,^ʑ o ⁴⁴ ui ³⁵$,default
+ZhaozhuangBai-201_if-1,,ZhaozhuangBai,201_if,zu⁴²kuo³³,zu⁴²kuo³³,z u ⁴² + k w o ³³,,Zhao2006,,,^z u ⁴² k uo ³³$,default

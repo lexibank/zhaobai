@@ -1,0 +1,1 @@
+The data for Zhaozhuang, a dialect variety of the Bai language spoken in Dali, stems from a wordlist of 201 items, supposed to represent the classical concept list by Swadesh from 1952, with two items for "tooth" (molar tooth vs. incisors). The data were typed off from the original source and then processed by the typical retro-standardization workflows.
