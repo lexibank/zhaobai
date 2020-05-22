@@ -18,6 +18,7 @@ The data for Zhaozhuang, a dialect variety of the Bai language spoken in Dali, s
 ## Statistics
 
 
+[![Build Status](https://travis-ci.org/lexibank/zhaobai.svg?branch=master)](https://travis-ci.org/lexibank/zhaobai)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
@@ -37,7 +38,7 @@ The data for Zhaozhuang, a dialect variety of the Bai language spoken in Dali, s
 # Contributors
 
 Name | GitHub user | Description | Role
---- | --- | ---
+--- | --- | --- | ---
 Johann-Mattis List | @LinguList | maintainer | Author
 Zhao, Yānzhēn | | data collector | DataCollector
 

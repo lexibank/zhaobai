@@ -11,7 +11,14 @@
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "CLDF dataset derived from Zhao's \"Investigations of Zhaozhuang Bai\" from 2006",
+    "dcat:accessURL": "https://github.com/lexibank/zhaobai",
     "prov:wasDerivedFrom": [
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Repository",
+            "rdf:about": "https://github.com/lexibank/zhaobai",
+            "dc:created": "0768c01"
+        },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
