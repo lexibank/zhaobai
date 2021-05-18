@@ -158,7 +158,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss,Number
 156_tohit,to hit,1433,HIT,打（人）,156
 158_tohunt,to hunt,1435,HUNT,打猎,158
 159_towipe,to wipe,1454,WIPE,擦（桌子）,159
-160_towash,to wash,3434,WASH (CLOTHES),洗（衣）,160
+160_towash,to wash,2503,LAUNDER (WASH CLOTHES),洗（衣）,160
 161_totie,to tie,1917,TIE,捆（麦子）,161
 162_tocount,to count,1420,COUNT,数，计算,162
 163_tocut,to cut,155,CHOP,砍（骨头）,163

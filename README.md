@@ -4,7 +4,7 @@ Cite the source dataset as
 
 > Zhao, Yanzhen (2006): Zhàozhuāng Báiyǔ miáoxiě yánjiū 趙莊白語描寫研究 [Investigations of Zhaozhuang Bai]. Běijīng: Zhōngyāng Mínzú Dàxué.
 
-This dataset is licensed under a CCBY-NC license
+This dataset is licensed under a CC-BY-4.0 license
 
 
 Conceptlists in Concepticon:
@@ -39,7 +39,7 @@ The data for Zhaozhuang, a dialect variety of the Bai language spoken in Dali, s
 
 Name | GitHub user | Description | Role
 --- | --- | --- | ---
-Johann-Mattis List | @LinguList | maintainer | Author
-Zhao, Yānzhēn | | data collector | DataCollector
+Johann-Mattis List | @LinguList | maintainer | Other
+Zhao, Yānzhēn | | data collector | DataCollector, Author
 
 

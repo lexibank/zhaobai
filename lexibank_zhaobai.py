@@ -16,12 +16,11 @@ class CustomConcept(Concept):
 
 @attr.s
 class CustomLanguage(Language):
-    Latitude = 25.5844078
-    Longitude = 100.3117 
-    ChineseName = "趙莊白語"
-    SubGroup = "Bai"
-    Family = "Sino-Tibetan"
-    DialectGroup = "Southern Bai"
+    
+    ChineseName = attr.ib(default=None)
+    SubGroup = attr.ib(default="Bai")
+    Family = attr.ib(default="Sino-Tibetan")
+    DialectGroup = attr.ib(default="Southern Bai")
 
 
 class Dataset(BaseDataset):
@@ -40,7 +39,13 @@ class Dataset(BaseDataset):
         args.writer.add_language(
                 ID='ZhaozhuangBai',
                 Glottocode='dali1242',
-                Name='Zhaozhuang Bai')
+                ChineseName="趙莊白語",
+                Name='Zhaozhuang Bai',
+                Latitude=25.5844078,
+                Longitude=100.3117,
+                Family="Sino-Tibetan",
+                DialectGroup="Southern Bai"
+                )
 
         for concept in self.conceptlists[0].concepts.values():
             idx = concept.number + "_" + slug(concept.gloss)

@@ -7,10 +7,14 @@
     ],
     "creators": [
         {
-            "name": "Johann-Mattis List"
+            "name": "Zhao, Y\u0101nzh\u0113n"
         }
     ],
     "contributors": [
+        {
+            "name": "Johann-Mattis List",
+            "type": "Other"
+        },
         {
             "name": "Zhao, Y\u0101nzh\u0113n",
             "type": "DataCollector"
@@ -19,14 +23,11 @@
     "communities": [
         {
             "identifier": "lexibank"
-        },
-        {
-            "identifier": "lexibank"
-        },
-        {
-            "identifier": "lexibank"
         }
     ],
     "upload_type": "dataset",
-    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Zhao, Yanzhen (2006): Zh\u00e0ozhu\u0101ng B\u00e1iy\u01d4 mi\u00e1oxi\u011b y\u00e1nji\u016b \u8d99\u838a\u767d\u8a9e\u63cf\u5beb\u7814\u7a76 [Investigations of Zhaozhuang Bai]. B\u011bij\u012bng: Zh\u014dngy\u0101ng M\u00ednz\u00fa D\u00e0xu\u00e9.</p>\n</blockquote>"
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Zhao, Yanzhen (2006): Zh\u00e0ozhu\u0101ng B\u00e1iy\u01d4 mi\u00e1oxi\u011b y\u00e1nji\u016b \u8d99\u838a\u767d\u8a9e\u63cf\u5beb\u7814\u7a76 [Investigations of Zhaozhuang Bai]. B\u011bij\u012bng: Zh\u014dngy\u0101ng M\u00ednz\u00fa D\u00e0xu\u00e9.</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
 }
