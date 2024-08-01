@@ -33,21 +33,21 @@ The data for Zhaozhuang, a dialect variety of the Bai language spoken in Dali, s
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 1
-- **Concepts:** 201
+- **Varieties:** 1 (linked to 1 different Glottocodes)
+- **Concepts:** 201 (linked to 200 different Concepticon concept sets)
 - **Lexemes:** 209
 - **Sources:** 1
 - **Synonymy:** 1.04
 - **Invalid lexemes:** 0
 - **Tokens:** 901
-- **Segments:** 45 (0 BIPA errors, 0 CTLS sound class errors, 45 CLTS modified)
+- **Segments:** 45 (0 BIPA errors, 0 CLTS sound class errors, 45 CLTS modified)
 - **Inventory size (avg):** 45.00
 
 # Contributors
 
 Name | GitHub user | Description | Role
 --- | --- | --- | ---
-Johann-Mattis List | @LinguList | maintainer | Other
+Johann-Mattis List | @LinguList | maintainer | Editor
 Zhao, Yānzhēn | | data collector | DataCollector, Author
 
 
